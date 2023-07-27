@@ -12,15 +12,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jula77gmail/mybinancelambda.git"
+    "url": "git+https://github.com/jula77gmail/binancelambda2.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jula77gmail/mybinancelambda/issues"
+    "url": "https://github.com/jula77gmail/binancelambda2/issues"
   },
-  "homepage": "https://github.com/jula77gmail/mybinancelambda#readme",
+  "homepage": "https://github.com/jula77gmail/binancelambda2#readme",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.119",
     "@types/node": "^20.4.5",
